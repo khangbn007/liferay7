@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;view.jsp&apos; to &apos;guestbook&apos;" description="Move &apos;view.jsp&apos; to &apos;guestbook&apos;" destination="src/main/resources/META-INF/resources/guestbook" element1="src/main/resources/META-INF/resources/view.jsp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1583680957773" updateReferences="true"/>
+</session>

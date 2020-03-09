@@ -1,0 +1,12 @@
+#
+#Sun Mar 08 23:28:06 ICT 2020
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+buildScriptPath=build.gradle
+linkedResources=
+subprojectPaths=modules;modules/guestbook;modules/guestbook/guestbook-api;modules/guestbook/guestbook-service;modules/guestbook/guestbook-web
+managedNatures=org.eclipse.jdt.core.javanature
+hasAutoBuildTasks=false
+gradleVersion=5.6.4
+buildDir=build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+derivedResources=.gradle;build;modules/build;modules/guestbook/build;modules/guestbook/guestbook-api/build;modules/guestbook/guestbook-service/build;modules/guestbook/guestbook-web/build
